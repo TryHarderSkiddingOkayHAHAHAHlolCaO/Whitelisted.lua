@@ -29,5 +29,7 @@ return {
     ["mitchgot"] = true,
     ["King_manman513"] = true,
     ["RAMPAGEONTHETOP"] = true,
-    ["Freezm_90"] = true
+    ["Freezm_90"] = true,
+    ["salvananton20"] = true,
+    ["Salvananton20"] = true,
 }
