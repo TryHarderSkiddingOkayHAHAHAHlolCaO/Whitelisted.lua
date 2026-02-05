@@ -32,4 +32,8 @@ return {
     ["Freezm_90"] = true,
     ["salvananton20"] = true,
     ["Salvananton20"] = true,
+    ["RealAxolotlGaming"] = true,
+    ["Sinssalty"] = true,
+    ["Corn_padla2"] = true,
+    ["HenneXDino"] = true,
 }
